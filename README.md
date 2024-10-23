@@ -27,6 +27,6 @@ Governança: Metodos de auditoria e padronização com formas de mitigação de 
 </h1>
 
 LRS: Armazenamento com redundancia local
-GRS:Armazenamento com redundancia geografica
-ZRS:Armazenamento com redundancia zona
-GZRS:Armazenamento com redundancia zona geografica
+<br>GRS:Armazenamento com redundancia geografica
+<br>ZRS:Armazenamento com redundancia zona
+<br>GZRS:Armazenamento com redundancia zona geografica
