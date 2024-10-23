@@ -21,3 +21,12 @@ Escalabilidade: Garante a facilidade de escalar recursos com poucos cliques dent
 Confiabilidade: Atráves de varios metodos a estrutura descentralizada garante que a estrutura se mantenha de forma resiliente e com recursos alocados e varios locais diferentes
 
 Governança: Metodos de auditoria e padronização com formas de mitigação de danos.
+
+<h1 align="center">
+ 🎲 Tipos de Armazenamento 🎲
+</h1>
+
+LRS: Armazenamento com redundancia local
+GRS:Armazenamento com redundancia geografica
+ZRS:Armazenamento com redundancia zona
+GZRS:Armazenamento com redundancia zona geografica
