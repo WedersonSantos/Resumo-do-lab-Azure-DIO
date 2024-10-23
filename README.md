@@ -36,10 +36,14 @@ LRS: Armazenamento com redundancia local
 </h1>
 
 <br>IaaS (Camada mais baixa): Infraestrutura como serviço - Servidores de armazenamento, firealls, segurança e quaisquer configuraçõesde infraestrutura.<br>
-<br>* Maior Flexibilidade<br>
+<br>  Maior Flexibilidade<br>
 <br>Você configura e gerencia o hardare para o seu aplicativo <br>
 
 <br>PaaS (Camada Media): Plataforma como serviço - Ferramentas para desenvolvedores. Analise para negocios de gerenciamento de database e configurações do sistema operacional.<br>
+<br> Foco no desenvolvimento de aplicativos e o gerenciamento da plataforma fica pelo provedor da Nuvem <br>
+
 <br>SaaS (Camada mais alta): Sistema como serviço - Aplicativos e apps hospedados<br>
+<br>Preço conforme o uso, os usuarios pagam pelo software que utilizam um modelo de assinatura<br>
+
 <br>![{B4272048-90DD-4A00-8A95-5E5216E9D8FA}](https://github.com/user-attachments/assets/8e2659eb-ee7a-4b40-860a-53bcceba1bed)
 
