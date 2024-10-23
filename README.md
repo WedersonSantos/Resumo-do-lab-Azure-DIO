@@ -20,4 +20,4 @@ Escalabilidade: Garante a facilidade de escalar recursos com poucos cliques dent
 
 Confiabilidade: Atráves de varios metodos a estrutura descentralizada garante que a estrutura se mantenha de forma resiliente e com recursos alocados e varios locais diferentes
 
-
+Governança: Metodos de auditoria e padronização com formas de mitigação de danos.
