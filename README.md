@@ -30,3 +30,11 @@ LRS: Armazenamento com redundancia local
 <br> GRS: Armazenamento com redundancia geografica
 <br> ZRS: Armazenamento com redundancia zona
 <br> GZRS: Armazenamento com redundancia zona geografica
+
+<h1 align="center">
+  Tipos de serviço na nuvem 
+</h1>
+
+<br>IaaS: Infraestrutura como serviço - Servidores de armazenamento, firealls, segurança e quaisquer configuraçõesde infraestrutura.
+<br>PaaS: Plataforma como serviço - Ferramentas para desenvolvedores. Analise para negocios de gerenciamento de database e configurações do sistema operacional.
+<br>SaaS: Infraestrutura como serviço - 
