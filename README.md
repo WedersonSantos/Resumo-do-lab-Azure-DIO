@@ -35,6 +35,8 @@ LRS: Armazenamento com redundancia local
   Tipos de serviço na nuvem 
 </h1>
 
-<br>IaaS: Infraestrutura como serviço - Servidores de armazenamento, firealls, segurança e quaisquer configuraçõesde infraestrutura.
-<br>PaaS: Plataforma como serviço - Ferramentas para desenvolvedores. Analise para negocios de gerenciamento de database e configurações do sistema operacional.
-<br>SaaS: Infraestrutura como serviço - 
+<br>IaaS (Camada mais baixa): Infraestrutura como serviço - Servidores de armazenamento, firealls, segurança e quaisquer configuraçõesde infraestrutura.
+<br>PaaS (Camada Media): Plataforma como serviço - Ferramentas para desenvolvedores. Analise para negocios de gerenciamento de database e configurações do sistema operacional.
+<br>SaaS (Camada mais alta): Sistema como serviço - Aplicativos e apps hospedados
+![{B4272048-90DD-4A00-8A95-5E5216E9D8FA}](https://github.com/user-attachments/assets/8e2659eb-ee7a-4b40-860a-53bcceba1bed)
+
