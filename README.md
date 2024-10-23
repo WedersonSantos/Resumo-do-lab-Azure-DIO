@@ -6,7 +6,7 @@
  ☁️introdução a computação na nuvem☁️
 </h1>
 
-<p align="justify">Introdução aos conceitos basicos de computação na nuvem. 
+<p align="justify">Introdução aos conceitos basicos de computação na nuvem e realizar as primeiras configurações no ambiente AZURE. 
  <br><br>Além de aprender a diferença entre:
   <br><br> CapEx(Capital Expenditure): CapEx refere-se a despesas de capital, ou seja, investimentos iniciais em infraestrutura física, como servidores, data centers e equipamentos. Esses custos são pagos antecipadamente, resultando em uma posse de ativos que podem ser usados por muitos anos. A principal vantagem do CapEx é o controle total sobre a infraestrutura, além de que, após o investimento inicial, os custos podem ser menores a longo prazo.
 
